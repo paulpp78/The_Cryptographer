@@ -1,4 +1,5 @@
 #include "Dechiffrement.h"
+
 char    *dechiffre_vigenere(char* text, char* key)
 {
     int text_length = strlen(text);

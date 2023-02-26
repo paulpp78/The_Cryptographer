@@ -1,4 +1,5 @@
 #include "Chiffrement.h"
+
 char    *chiffre_vigenere(char* text, char* key)
 {
     int text_length = strlen(text);

@@ -14,5 +14,6 @@ char	*chiffre_cesar(char *text, unsigned int key)
         i++;
     }
     output[i] = '\0';
+
     return output;
 }

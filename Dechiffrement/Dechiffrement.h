@@ -1,5 +1,3 @@
-
-
 #ifndef CRYPTOGRAPHER_DECHIFFREMENT_H
 #define CRYPTOGRAPHER_DECHIFFREMENT_H
 #include <stdlib.h>
